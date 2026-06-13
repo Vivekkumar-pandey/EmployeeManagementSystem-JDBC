@@ -8,7 +8,7 @@ public class EmployeeDao {
 	String url = "jdbc:mysql://localhost:3306/employee_management";
 
 	String username = "root";
-	String password = "12345";
+	String password = "Enter_Your_Password";
 
 //	Insert ******
 
