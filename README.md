@@ -72,7 +72,7 @@ INNER JOIN department d ON e.dept_id = d.dept_id;
 ```
 2. Create the database using the provided SQL script (`schema.sql`)
 3. Update DB credentials (URL, username, password) in the connection class
-4. Compile and run `MainApp.java`
+4. Compile and run `EmployeeManagementSystem.java`
 
 ## 📝 Sample Departments
 | dept_id | dept_name |
