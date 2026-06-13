@@ -12,12 +12,19 @@ A console-based Employee Management System built using **Java, JDBC, MySQL, Prep
 ## 📁 Project Structure
 
 src
+
 ├── model
+
 │   ├── Employee.java
+
 │   └── Department.java
+
 ├── dao
+
 │   └── EmployeeDAO.java
+
 └── EmployeeManagementSystem.java
+
 
 ## 🗄️ Database Schema
 
